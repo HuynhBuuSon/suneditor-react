@@ -1,6 +1,6 @@
 {
-  "name": "suneditor-react",
-  "version": "3.4.0",
+  "name": "@huynh315@suneditor-react",
+  "version": "3.5.0",
   "description": "A React Component for Suneditor",
   "repository": {
     "type": "git",
@@ -23,8 +23,8 @@
   "author": "Kusi Musah Hussein",
   "license": "MIT",
   "peerDependencies": {
-    "react": "^16.9.0 || ^17.0.0",
-    "react-dom": "^16.9.0 || ^17.0.0",
+    "react": "^16.9.0 || ^17.0.0 || ^18.x.x",
+    "react-dom": "^16.9.0 || ^17.0.0 || ^18.x.x",
     "suneditor": "^2.42.0"
   },
   "devDependencies": {
